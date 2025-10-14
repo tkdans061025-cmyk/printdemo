@@ -1,10 +1,10 @@
+echo "내용" > README.md    # 파일 만들기
+git add README.md          # 스테이지에 추가
+git commit -m "첫 커밋"    # 첫 커밋 생성
+
 
 print("hello world")
-# main_print_v2.py
-
-# 기본 출력
-print("Hello, Python!")
-
+# main_print_v2
 # 변수와 함께 출력
 name = "홍길동"
 age = 20
